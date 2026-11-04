@@ -1,0 +1,576 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/Third Epoch|next=Template:Timeline/Fifth Epoch 2}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-un
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''Pale Era (cont.)'''
+|-
+|c. 1,300 BA
+|
+|
+*[[Azik Eggers|Death Consul Azik]] fought the Saints and [[Angels]] of the [[Church of the Evernight Goddess]] together with [[Katarina Pelle]].<ref name="C588">{{Cite Book|1|588}}</ref>
+*The Seven Orthodox Gods joined forces to fight against them, resulting in the destruction of [[Salinger|Death]] in the early Fifth Epoch:<ref name="C1041">{{Cite Book|1|1041}}</ref>
+**"His" death created the '''[[Berserk Sea]]''' that separated the [[Northern Continent]] and [[Southern Continent]].
+**The [[Balam Empire]] collapsed, creating a power vacuum in the [[Southern Continent]].
+**The [[Primordial Demoness]] was also heavily injured.<ref name="C588" />
+|-
+! colspan="3" |'''Before Industrial Revolution'''
+|-
+| Early 5th Epoch
+|
+|
+*Gods no longer walked the land. The [[List of Orthodox Organizations|Orthodox Churches]] don't reveal "Their" appearances for people to worship and use Sacred Emblems instead.
+* The extraordinary power was concealed to the common people.
+*The history about [[Fourth Epoch|the previous epoch]] was ambiguous to the common people. They roughly knew the [[Solomon Empire]], [[Tudor Empire]] and the [[Trunsoest Empire]] in chronological order.<ref>{{Cite Book|1|9}}</ref>
+*The [[Sanguines]] hid in all walks of life and had completely integrated into human society.
+*The [[Resistance]] gradually appeared at the sea after the fall of [[Salinger|Death]].<ref name="C1041" />
+*The [[Loen Kingdom]] occupied [[Sonia Island]].<ref>{{Cite Book|1|534}}</ref>
+*The following [[List of Secret Organizations|secret organizations]] were formed:<ref name="C66">{{Cite Book|1|66}}</ref>
+**[[Numinous Episcopate]]
+**[[Theosophy Order]]
+**[[Life School of Thought]]
+**[[Rose School of Thought]] (under the [[Chained God]])<ref>{{Cite Book|1|330}}</ref><ref name="C1041" />
+*The [[List of Orthodox Organizations|Seven Orthodox Churches]], along with the various nations, jointly pushed for a Cemetery Burial act.<ref>{{Cite Book|1|984}}</ref>
+|-
+|c. 1,300-1,400 BA<ref>{{Cite Book|1|135}}</ref><ref>{{Cite Book|1|150}}</ref>
+|
+|
+*[[Azik Eggers]] became the first '''Baron Lamud''' that ruled the Lamud Town.
+|-
+|
+|61, December 16<ref name="ChineseLOTMDiscordSheet">[https://docs.google.com/spreadsheets/d/1fxRmF42epaPPa3D7aaSNAnKSsoH9rdzd315ig-iF8S8/edit#gid=1546615472 Google spreadsheet from the Chinese Lord of Mysteries Discord]</ref>
+|
+*[[Reinette Tinekerr]] was born.
+|-
+|
+|
+|
+*The '''[[Highlands Kingdom]]''' and the '''Paz Kingdom''' were founded.<ref name="C1041" />
+|-
+|c. 1,000 BA
+|
+|
+*The [[Beria Family]] and the [[Andariel Family]] have gradually weakened since at least a thousand years ago, to the point of becoming vassals of the [[Nois Family]] in recent decades.<ref>{{Cite Book|1|420}}</ref>
+|-
+|
+|
+|
+*The [[Mother Tree of Desire]] suddenly appeared in this Epoch.<ref name="C1041" />
+*Due to some accident, the [[Chained God]] was captured (and corrupted) by the [[Mother Tree of Desire]].<ref name="C1271">{{Cite Book|1|1271}}</ref>
+|-
+|
+|428
+|
+*[[Suah]] was born from a Sequence 1 characteristic of the [[Chained God]].<ref name="C1041" />
+*The [[Rose School of Thought]] indulgence faction started gaining momentum under the increasing influence of the [[Mother Tree of Desire]].<ref name="C1041" />
+|-
+|
+|589
+|
+*The [[Creatures and Plants#Fürth Firefish|Fürth Firefish]] species stabilized after enduring corruption leaking from the sealed [[Fourth Epoch Trier]].<ref>{{Cite Book|2|706}}</ref>
+|-
+|
+|621-642
+|
+*'''Twenty-Year War''' between the [[Loen Kingdom]] and the [[Feysac Empire]]. Loen lost [[Sonia Island]].<ref>{{Cite Book|1|633}}</ref>
+|-
+|
+|
+|
+*'''White Rose War'''. Loen defeated Intis and became powerful again. 
+**[[Audrey Hall]] ancestor obtained his first aristocratic title in this war.<ref>{{Cite Book|1|641}}</ref>
+|-
+|
+|738-743
+|
+*'''Battle of the Violated Oath'''
+**[[Lenburg]], [[Masin]], and [[Segar]] gained independence from the [[Feynapotter Kingdom]].
+**Only the [[Church of the Earth Mother]] remained in the [[Feynapotter Kingdom]].
+|-
+|c. 300 BA
+|
+|
+*[[Bansy Harbor|Binsy Town]] was occupied by the [[Loen Kingdom]].<ref name="C506" /> Later, due to changing the pronunciation and other factors, it gradually evolved into '''Bansy'''.<ref>{{Cite Book|1|512}}</ref>
+*The [[Aurora Order]] was formed.<ref>{{Cite Book|1|105}}</ref>
+|-
+|c. 200 BA
+|
+|
+*Damir Harbor was occupied by the [[Loen Kingdom]].
+*The following [[List of Secret Organizations|secret organizations]] were formed:<ref name="C66" />
+**[[Iron and Blood Cross Order]]
+**[[Psychology Alchemists]]
+|-
+|
+|1125, Oct 11
+|
+*[[Roselle Gustav]] was born.
+|-
+|
+|1143, Feb
+|
+*'''Huang Tao''' transmigrated as [[Roselle Gustav]].<ref name="C359">{{Cite Book|1|359}}</ref>
+|-
+|
+|1155, May 19
+|
+*[[Bernadette Gustav]] was born.
+|-
+|
+|1158
+|
+*[[Vermonda Sauron]] went mad and entered [[Fourth Epoch Trier]], beginning the [[Sauron Family#Bloodline Curse|Sauron Family's bloodline curse]].<ref>{{Cite Book|2|433}}</ref>
+|-
+! colspan="3" |'''Industrial Revolution'''
+|-
+|
+|
+|
+*[[Roselle Gustav]] made countless [[Roselle's Inventions|inventions]] based on his memory. The improved sailboats and the steam engine later cultivated the growing number of pirates and the birth of steamship.
+*The '''God of Craftsmanship''' changed "His" name to the [[God of Steam and Machinery]] to share in the progress of the enlightenment of civilization, and digested the remnant Sequence 1 potion inside "Him".
+|-
+|
+|1173
+|
+*Roselle overthrew the '''Intis Kingdom''', and through the acknowledgment of the [[Church of the God of Steam and Machinery]], became the foremost Consul of the [[Intis Republic]].<ref>{{Cite Book|1|397}}</ref>
+|-
+|
+|1183, Nov
+|
+*Roselle connected to [[Bethel Abraham|Mr. Door]].<ref>{{Cite Book|1|21}}</ref>
+|-
+|
+|1185
+|
+*[[Frunziar Edward]] stuck and became a character in the [[Groselle's Travels]].<ref>{{Cite Book|1|697}}</ref>
+|-
+|
+|1192
+|
+*Roselle converted the [[Intis Republic]] into the '''Intis Empire''' and proclaimed himself '''"Emperor Caesar"'''.
+|-
+! colspan="3" |'''Colonization'''
+|-
+|
+|1194
+|
+*Roselle discovered a new safer sea route to the [[Southern Continent]].
+*This discovery jumpstarted the colonization of the [[Southern Continent]], which was also known as the invasion of the [[Northern Continent]].
+*The [[Southern Continent]] was divided into [[East Balam]] and [[West Balam]].
+**'''East Balam''': [[Loen Kingdom|Loen]] and [[Feysac Empire|Feysac]] have been fighting over this colony for a long time. Eventually it became the [[Loen Kingdom]]'s colony.
+**'''West Balam''': It is a complicated country that belonged to many factions.<ref>{{Cite Book|1|871}}</ref>
+***Some cities are managed by the [[Loen Kingdom]], valleys belongs to [[Intis Republic]].
+***Some powerful independent states are secretly connected to the [[Numinous Episcopate]].
+***The [[Rose School of Thought]] and [[Feysac Empire]] also have a deep influence on [[West Balam]].
+*The crown of the [[Balam Empire]] was obtained by [[Augustus Family]].<ref name="C1087">{{Cite Book|1|1087}}</ref> The king of the Loen Kingdom then gave himself the title "'''Emperor of the Balam Empire'''".<ref name="C1087" />
+|-
+|
+|1198
+|
+*[[Roselle Gustav]] became Sequence 0 {{Seq|Black Emperor}} of the [[Black Emperor Pathway]] somewhere around this time.
+*Roselle was assassinated and died in a coup.
+*[[Intis Republic|Intis]] suffered several great shocks but ultimately managed to maintain a stable republican system, establishing itself as the '''Intis Republic''' again.
+|-
+|
+|1288, Mar 9
+|
+*[[Old Neil]] was born.
+|-
+|
+|1307
+|
+*The [[City of Silver]]'s exploration team encountered [[Amon]] in a ruin.<ref name="C355">{{Cite Book|1|355}}</ref>
+*[[Amon]] secretly parasited on [[Uddel]], a captain of the exploration team. Uddel was imprisoned since then.<ref name="C355" /><ref>{{Cite Book|1|361}}</ref>
+|-
+| c. 50 BA
+|
+|
+*The [[Rorsted Archipelago]] was colonized by the [[Loen Kingdom]].<ref>{{Cite Book|1|522}}</ref>
+|-
+|
+|1312, Sep 3
+|
+*[[Emlyn White]] was born.
+|-
+|
+| 1314, Aug 16
+| 
+*[[Dunn Smith]] was born.
+|-
+|
+|1315, Dec 26
+|
+*[[Frank Lee]] was born.
+|-
+|
+|1317, Mar 20
+|
+*[[Alger Wilson]] was born.
+|-
+|
+|1319, Jan 7
+| 
+*[[Danitz Dubois]] was born.
+|-
+|
+|1321, Feb 5
+|
+*[[Anderson Hood]] was born.
+|-
+|
+|1321, Nov 7
+|
+*[[Edwina Edwards]] was born.
+|-
+|
+|1323, Feb 3
+|
+*[[Cattleya]] was born.
+|-
+|
+| 1323, Sep 17
+|
+*[[Frye]] was born.
+|-
+|
+|1324, Feb 14
+|
+*[[Leonard Mitchell]] was born.
+|-
+|
+| 1324, May 6
+|
+*[[Benson Moretti]] was born.
+|-
+|
+|1324
+|
+*The '''Backlund Metro''' was first constructed in the [[Loen Kingdom]].<ref>{{Cite Book|1|214}}</ref>
+|-
+|
+|1325, Dec 31
+|
+*[[Daly Simone]] was born.
+|-
+|
+|1326, Apr 13
+|
+*[[Fors Wall]] was born.
+|-
+|
+|1326, Jul 15
+|
+*[[Sharron]] was born.
+|-
+|
+| 1327
+|
+*The [[Loen Kingdom]] enacted the ''''Basic Education Law''''.<ref>{{Cite Book|1|56}}</ref>
+|-
+|
+|1327, Mar 4
+|
+*[[Klein Moretti]] was born.
+|-
+|
+|1328, Mar 18
+|
+*[[Xio Derecha]] was born.
+|-
+|
+|1332, Jun 6
+| 
+*[[Audrey Hall]] was born.
+|-
+|
+|1333, Nov 23
+|
+*[[Melissa Moretti]] was born.
+|-
+|
+|1333, Jul 15
+|
+*[[Selena Wood]] was born.
+|-
+|
+|1334
+|
+*[[Dunn Smith]] became a {{Seq|Sleepless}}.<ref name="Dayin1346" />
+|-
+|
+|1335
+|
+*[[Danitz]] left his hometown and went to the seas.<ref>{{Cite Book|rebellious}}</ref>
+|-
+|
+|1335, Apr 19
+|
+*[[Derrick Berg]] was born.
+|-
+|
+|1336
+|
+*The '''Poor Law''' was established in the [[Loen Kingdom]].<ref>{{Cite Book|1|120}}</ref>
+|-
+|
+|1338
+|
+*'''Konotop Sea battle'''. [[Loen Kingdom|Loen]] and [[Feysac Empire|Feysac]] sea battle in [[East Balam]]’s Konotop.<ref>{{Cite Book|1|783}}</ref>
+|-
+|
+|1340, September 26
+|
+* [[Lumian Lee]] was born.
+|-
+|
+|1343
+|
+*[[Xio Derecha|Xio's]] father, [[Mason Dere]], was accused of participating in a revolt and executed. The Dere family was deprived of their aristocratic title and fiefdom.<ref>{{Cite Book|1|452}}</ref>
+|-
+|
+|1344
+|
+*[[Daly Simone]] became a {{Seq|Corpse Collector}} and was placed into a [[Nighthawks]] team.<ref>{{Cite Book|1|944}}</ref>
+|-
+|
+|1346
+|
+*[[Leonard Mitchell]] joined the [[Blackthorn Security Company]] and became a {{Seq|Sleepless}}.<ref name="Dayin1346">{{Cite Book|year1346}}</ref>
+*[[Ince Zangwill]] failed in his promotion. He defected from the church with [[Quill of Alzuhod|Sealed Artifact 0-08]].<ref>{{Cite Book|1|19}}</ref>
+*[[Fors Wall]] became an {{Seq|Apprentice}}.<ref>{{Cite Book|1|340}}</ref>
+|-
+|
+|1348, May
+|
+*[[Welch McGovern]] purchased the [[Antigonus Family's Notebook]] from [[Hanass Vincent]].<ref>{{Cite Book|1|100}}</ref> He asked [[Naya]] and the original [[Klein Moretti|Klein]] to interpret and record the content.<ref>{{Cite Book|1|9}}</ref>
+|-
+|
+|1348, Jan 25
+|
+*[[Susie]] was born.
+|}
+===Starting Point of [[Lord of Mysteries (Novel)|Lord of Mysteries]]===
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''1349'''
+|-
+|
+|June 28
+|
+*[[Welch McGovern]], [[Naya]] and the original [[Klein Moretti]] committed suicide.
+*[[Zhou Mingrui]] transmigrated as [[Klein Moretti]].<ref>{{Cite Book|1|1}}</ref>
+*The Curtain, a set of Sequence 9 to 1 characteristics of the [[Fool Pathway]], was spat out of the [[Sefirah Castle]] to the [[Forsaken Land of the Gods]]. [[Kotar]] obtained the Curtain.<ref>{{Cite Book|1|1220}}</ref>
+*The [[Tarot Club]] was founded.<ref>{{Cite Book|1|5}}</ref>
+|-
+|
+|July 2
+|
+*Klein became a Beyonder of the [[Fool Pathway]] and officially joined the [[Nighthawks]] as an active member.
+|-
+|
+|July 7
+|
+* [[Mr. Harry]] ([[Darkwill]]'s Owl) was born.
+|-
+|
+|July
+|
+*After an investigation of massacre of the Alfalfa case, the police put out an arrest warrant on [[Trissy|Tris]].<ref>{{Cite Book|1|64}}</ref>
+|-
+|
+|August
+| 
+*The number of death incidents in the Western District of [[Tingen City]] are five times the normal rate. [[Blackthorn Security Company]] investigated this issues.<ref>{{Cite Book|1|118}}</ref>
+**This is Klein's first group mission after becoming a [[Nighthawks|Nighthawk]].
+|-
+|
+|September
+|
+*[[True Creator's Spawn (Event)|True Creator's Spawn]] in [[Tingen City]].<ref>{{Cite Book|1|204}}</ref>
+*[[Dunn Smith]] died protecting [[Tingen City]]. [[Klein Moretti]]'s second death.<ref>{{Cite Book|1|209}}</ref>
+*[[Ince Zangwill]] obtained [[Saint Selena's Ashes]] and was promoted Sequence 4 {{Seq|Nightwatcher}} of the [[Darkness Pathway]].<ref>{{Cite Book|1|210}}</ref>
+*[[Klein Moretti]] is resurrected.<ref>{{Cite Book|1|211}}</ref> Klein sets his goal to take revenge on [[Ince Zangwill]] and [[Lanevus]].<ref>{{Cite Book|1|213}}</ref>
+*Klein Moretti assumed the identity of '''Sherlock Moriarty''' and traveled to [[Backlund]].<ref>{{Cite Book|1|215}}</ref>
+|-
+|
+|End of September
+|
+* The '''Civil Servant Unified Examination Bill''' was officially passed by the House of Lords.<ref>{{Cite Book|1|263}}</ref>
+|-
+|
+|December 28
+|
+*[[Great Smog of Backlund]]<ref>{{Cite Book|1|475}}</ref>
+|-
+! colspan="3" |'''1350'''
+|-
+|
+|January
+|
+*Klein left Backlund and assumed the identity of '''Gehrman Sparrow'''.<ref>{{Cite Book|1|483}}</ref>
+*An old custom in [[Bansy Harbor]] was revived.<ref name="C506">{{Cite Book|1|506}}</ref>
+*Klein took over identity and authority of the [[Sea God Kalvetua]].<ref>{{Cite Book|1|550}}</ref>
+|-
+|
+|April
+|
+*The [[City of Silver]] arrived at the [[Afternoon Town]].<ref>{{Cite Book|1|666}}</ref>
+*Klein returned to Backlund with identity of '''Dwayne Dantès'''.<ref>{{Cite Book|1|737}}</ref>
+|-
+|
+|{{tl-abbr|?}}
+|
+*The half of [[Zaratul]] sealed in [[Hornacis_Mountain_Range#Foggy_Town|Foggy Town]] is liberated by tricking Klein. Then Zaratul becomes reconnected and loses "His" madness.<ref name="C838">{{Cite Book|1|838}}</ref>
+|-
+|
+| June
+|
+*The [[Evernight Goddess]] obtained the [[Uniqueness]] of the [[Death Pathway]].<ref name="C917">{{Cite Book|1|917}}</ref>
+|-
+|
+|June 26
+|
+*[[Will Auceptin|Will Ceres]] was born.<ref>{{Cite Book|1|936}}</ref>
+|-
+|
+|October
+|
+*'''[[1350 World War|World War]] began.'''<ref>{{Cite Book|1|1083}}</ref>
+**The [[Feysac Empire]] attacked the capital of the [[Loen Kingdom]], [[Backlund]].
+** On the same night, their Sonia Sea fleet attacked the Imperial Navy's main base in Oak Island.
+**The [[Loen Kingdom]] declared the war on the Feysac Empire.<ref name="C1084">{{Cite Book|1|1084}}</ref>
+**The [[Feynapotter Kingdom]] and the [[Church of the Earth Mother]] invaded [[Lenburg]].<ref>{{Cite Book|1|1098}}</ref>
+|-
+|
+|November
+|
+*[[Trissy]] got in contact with [[Bethel Abraham|Mr. Door]].<ref name="C1134">{{Cite Book|1|1134}}</ref>
+|-
+|
+|December
+|
+*[[George Augustus III]] attempted to advance to the {{Seq|Black Emperor}}.
+*The [[City of Silver]] obtained Frank's mushrooms from The Fool.<ref>{{Cite Book|1|1135}}</ref>
+*[[George III's Apotheosis Ritual]] was foiled by Klein and co, resulting in "His" death.<ref>{{Cite Book|1|1145}}</ref>
+*This event escalated the war further with [[Intis Republic|Intis]] joining the war.
+*[[Amon]] brought Klein to the [[Forsaken Land of the Gods]].<ref name="C1153">{{Cite Book|1|1153}}</ref>
+|-
+! colspan="3" |'''1351'''
+|-
+|
+|
+|
+*[[Jevington Augustus]] was crowned the King of the [[Loen Kingdom]] after the death of George III.<ref>{{Cite Book|1|1184}}</ref>
+*During the war, the extraordinary power was exposed to the common people, especially the veterans who all witnessed it in the battlefield.<ref>{{Cite Book|1|1232}}</ref><ref>{{Cite Book|1|1281}}</ref>
+*[[Feysac Empire]] had taken three routes in invasion to the [[Loen Kingdom]].<ref>{{Cite Book|1|1280}}</ref>
+**The border along the Amantha mountain range in Winter County.
+**[[Sonia Island]], attacking the coastal harbors, and attempting a landing.
+**[[Belltaine City]] in Midseashire.
+* The [[Church of the Evernight Goddess]] successfully withstood the [[Feysac Empire|Feysac]] army in the Amantha Mountain range, and the [[Church of the Lord of Storms]] along with the navy withstood the [[Feysac Empire|Feysac]] and [[Feynapotter Kingdom|Feynapotter]] navy in the Sonia Sea.
+*The [[Feysac Empire]] successfully defeated the Midseashire army and invaded [[Belltaine City]] and occupied Constant City. They then invaded [[Loen Kingdom|Loen]] all the way to [[Backlund]] and met with the Intis army.
+|-
+|
+|1351, September 8
+|
+* In the [[Forsaken Land of the Gods]], Klein discovered the [[Moon City]].<ref>{{Cite Book|1|1210}}</ref>
+|-
+|
+|
+| 
+*[[True Creator]] arrived and planted a corruptive seed in Klein's body that forced him to open the door that leads to [[Sasrir]]'s resting place in the [[Giant King's Court]].<ref>{{Cite Book|1|1247}}</ref>
+|-
+|
+|Fall
+|
+*The [[Resistance]] take over the government [[Rorsted Archipelago]].<ref name="C1249">{{Cite Book|1|1249}}</ref>
+*'''The Battle of Gods started.'''<ref>{{Cite Book|1|1258}}</ref>
+**The [[Evernight Goddess]] fought against the [[God of Combat]] and the [[Earth Mother]] in [[Backlund]].
+**The [[God of Knowledge and Wisdom]] fought against the [[Eternal Blazing Sun]] in the capital of [[Lenburg]].
+**The [[Lord of Storms]] fought against the [[God of Steam and Machinery]] in [[Bayam]].
+*Klein, [[Colin Iliad]], [[Lovia Tiffany|Lovia]], and [[Derrick Berg]] enter the [[Giant King's Court]] and  fought against [[Sasrir]] Evil Spirit.<ref>{{Cite Book|1|1261}}</ref>
+*[[Amon]] took the opportunity to steal the [[Blasphemy Slate#First Blasphemy Slate|First Blasphemy Slate]] from them, which resulted in "Him" being pursued by the [[True Creator]].<ref>{{Cite Book|1|1265}}</ref>
+*The gate of [[Giant King's Court]] was pushed open. The [[Forsaken Land of the Gods]] finally connected to the real world.<ref name="C1266">{{Cite Book|1|1266}}</ref>
+|-
+! colspan="3" |'''1352'''
+|-
+|
+|{{tl-abbr|?}}
+|
+* During the World War, [[Hugues Artois]] deserted his troops.<ref>{{Cite Book|1|308}}</ref>
+* Albert Goncourt led the rebellion known as the [[Carbonari]], uprising, opposing the government's militants in [[Trier]]. <ref>{{Cite Book|2|364}}</ref>
+|-
+|
+| Spring
+|
+*'''[[1350 World War|World War]] ended.'''<ref name="C1266" />
+**The [[God of Combat]] was backstabbed by the [[Earth Mother]] and fell.
+**The [[Evernight Goddess]] obtained the [[Twilight Giant Pathway|Twilight Giant]] [[Uniqueness]].
+**The [[Evernight Goddess]] gave "Her" part of the Authority of the Moon (the [[Moon Pathway|Moon]] [[Uniqueness]]) to [[Lilith]].<ref name="C1266" /> "She" removed "Her" ‘Lady of Crimson’ title.<ref name="C1277">{{Cite Book|1|1277}}</ref> The Sacred Emblem of the [[Church of the Evernight Goddess]] changed from the crimson moon to that of stars.
+|-
+|
+|
+|
+*[[Adam]] promoted to Sequence 0 {{Seq|Visionary}} of the [[Visionary Pathway]].<ref name="C1266" />
+*The [[Church of the God of Steam and Machinery]] lost their standing in the [[Loen Kingdom]]. They had to transfer all their Grade 2 and above [[Sealed Artifacts]] out of [[Loen Kingdom|Loen]] back to the [[Intis Republic]].<ref name="C1273">{{Cite Book|1|1273}}</ref>
+*The intrusion of the [[Outer Deities]] into the world deepened.<ref name="C1297">{{Cite Book|1|1297}}</ref>
+|-
+|
+|{{tl-abbr|sa}}
+|
+* Klein left the [[Forsaken Land of the Gods]] and promoted to Sequence 2 {{Seq|Miracle Invoker}}, becoming an [[Angels|Angel]]. "He" assumed the identity of the wandering magician '''Merlin Hermes'''.<ref>{{Cite Book|1|1276}}</ref>
+*[[Larrion]] ran away from the [[Church of the God of Combat]] together with the Sealed Artifact [[Trunsoest Brass Book|0-02]]. "He" destroyed the articles containing information about all Sealed Artifacts. Arianna went after "Him" to [[Belltaine City]].<ref>{{Cite Book|1|1282}}</ref>
+|-
+|
+|
+|
+*The [[City of Silver]] and the [[Moon City]] left the [[Forsaken Land of the Gods]].<ref>{{Cite Book|1|1298}}</ref> With the help of [[Alger Wilson|Alger]] and [[Danitz]], they settle the new home in [[Rorsted Archipelago]], near [[Bayam]].
+|-
+|
+|
+|
+*[[Bernadette Gustav]] found Roselle's [[Primitive Island in Fog Sea|primitive island]]. She met and sealed [[Roselle Gustav|Roselle]] using a symbol from [[Pale Death]] and help from [[Klein Moretti|Mr. Fool]].<ref name="C1308">{{Cite Book|1|1308}}</ref>
+|-
+|
+|End of February
+|
+*The [[True Creator]] sealed off the gate of the [[Forsaken Land of the Gods]].<ref>{{Cite Book|1|1316}}</ref>
+|-
+|
+|September
+|
+*Klein established "His" marionette town [[Utopia]].<ref>{{Cite Book|1|1328}}</ref>
+*Around this time, the [[Church of the Fool]] was founded in [[Bayam]].
+|-
+|
+|Fall
+|
+*[[Zaratul]] cooperated with [[Adam]] and successfully raided [[Utopia]].<ref>{{Cite Book|1|1345}}</ref>
+*Klein was captured inside the [[Corpse Cathedral]] by [[Adam]].<ref>{{Cite Book|1|1345}}</ref>
+*[[Verdu Garcia]] was tricked by [[Sauron-Einhorn-Medici|Medici]] and [[Amon]] into holding a ritual to release [[Bethel Abraham|Mr. Door]].<ref>{{Cite Book|1|1349}}</ref>
+*[[Bethel Abraham|Mr. Door]] returned from "His" banishment.
+**Due to "Her" contamination, the [[Mother Goddess of Depravity]] also tried to breach the barrier and enter Earth.
+**Mr. Door willingly gave up "His" life to Amon to stop the [[Mother Goddess of Depravity]].<ref name="C1353">{{Cite Book|1|1353}}</ref>
+*[[Amon]] stole Mr. Door place in "His" apotheosis ritual, and became "'''Mr. Error'''", the God of both the [[Error Pathway|Error]] and [[Door Pathway|Door]] pathways.<ref name="C1353" />
+*[[Adam]] arrived in the [[Forsaken Land of the Gods]] to confront the [[True Creator]]. Adam used [[Arrodes]] to trigger the [[Chaos Sea]], then "He" used the [[Blasphemy Slate#Second Blasphemy Slate|Second Blasphemy Slate]] to form a connection with the triggered area of the Chaos Sea. "He" then stepped forward into the shadow curtain to confront the [[True Creator]].<ref>{{Cite Book|1|1357}}</ref>
+|-
+|
+|
+|
+*[[Klein's Apotheosis Ritual]]
+*[[The Fool's Gambit]]
+|-
+|
+|
+|
+*The Fool Klein, now half a {{Seq|Lord of Mysteries}}, released all souls from their cocoons in the [[Sefirah Castle]]. They [[Transmigrator|transmigrated]] into the bodies of those who had just died in the real world. Then "He" entered a state of slumber.<ref>{{Cite Book|1|1390}}</ref>
+|}<noinclude>
+For year after this, Book 2 contents, should be adds on {{t|Timeline/Fifth Epoch 2}}.
+{{References}}
+[[Category:Timeline Templates]]
+</noinclude>

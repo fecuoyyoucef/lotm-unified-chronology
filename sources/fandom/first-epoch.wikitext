@@ -1,0 +1,92 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/Pre-Epoch|next=Template:Timeline/Second_Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Event
+|-
+!'''7,210 BA - 6,646 BA'''
+!'''The Lost Era (Year 0-564)'''<ref name="wechat_history">{{Cite Wechat|history}}</ref>
+|-
+|{{tl-abbr|?}}
+|
+*The [[Original Creator]] awakened, leading to the destruction of most of humanity and the onset of apocalypse. "His" kin emerged from oil wells, volcanic depths, and oceanic trenches.
+*"He" completely split into six [[Sefirot]], sixteen [[Uniquenesses]], and countless [[Beyonder Characteristics]].
+*"His" awakening caused a convergence force that split off parts of the [[Sefirot]], [[Uniquenesses]], and [[Beyonder Characteristics]] from "His" three direct children and attracted them to Earth: the [[Mother Goddess of Depravity]], the [[Son of Chaos]], and the [[Mother Tree of Desire]].
+**When the total number of twenty-two pathways and the nine sefirot was reached, everything finally reached a balance.<ref name="1.1271">{{Cite Book|1|1271}}</ref>
+*The previous [[Seven Lights]] were wiped out.<ref name="1.1272">{{Cite Book|1|1272}}</ref>
+|-
+|{{tl-abbr|sa}}
+|
+*The residual power of the [[Original Creator]] constitutes the [[Astral Barrier]] around Earth.
+*Many [[Outer Deities]] came to Earth to either retrieve the Sefirot, Uniquenesses and characteristics originally belonging to "Them", or to obtain additional Sefirot, Uniquenesses and characteristics neighboring "Them" to become stronger. However, "They" were blocked by the [[Astral Barrier]], and have stayed in the Solar System ever since.<ref name="1.1271" />
+|-
+|{{tl-abbr|?}}
+|
+*Earth had great reconstructions through time.
+**'''North America''' became the [[Northern Continent]].
+**'''South America''' became the [[Southern Continent]].
+***A large part of the isthmus that connects the two landmasses has been wiped away by some kind of power, forming the Berserk Sea.
+*** Midseashire is the expanded and connected version of the Great Lakes of North America, likely as a result of a strike from a massive meteor.
+**'''Greenland''' became the [[Sonia Island]].
+**'''East Asia''' became the [[Western Continent]].
+**'''Europe''' and '''West Asia''' became the Eastern Continent, later known as the [[Forsaken Land of the Gods]].<ref name="1.1167">{{Cite Book|1|1167}}</ref>
+**'''Australia''' fell and became the [[Abyss]].<ref name="discord_international_ama">[[Archive:Discord International AMA with the author]]</ref>
+|-
+|{{tl-abbr|?}}
+|
+*The various [[Beyonder Characteristics]] were subsequently acquired by humans, animals, and surviving creatures, resulting in various mutations such as giants, elves, demons, dragons, feathered serpents, orcs, naga, sea monsters, and wraiths.<ref name="1.18">{{Cite Book|1|18}}</ref><ref name="1.1067">{{Cite Book|1|1067}}</ref>
+|-
+|{{tl-abbr|?}}
+|
+* The [[Primordial God Almighty]] and the [[Celestial Worthy of Heaven and Earth for Blessings]] leveraged "Their" long-prepared ancient schemes across the times of the [[Pre-Epoch|Old Earth]] to gradually gain advantages in "Their" fight against the other [[Sefirot]]. "They" eventually defeated the other [[Sefirot]] (excluding the [[Brood Hive]] and the [[Key of Light]]) and shattered "Their" wills, making those wills take a very long time to recover and awaken again.
+* The [[Son of Chaos]] bypassed the [[Astral Barrier]] by killing "Himself" and then resurrecting through the {{Seq|Black Emperor}} ability.<ref name="wechat_ph">{{Cite Wechat|ph}}</ref> "He" encountered the [[Celestial Worthy]] and was controlled by "Him".<ref name="wechat_beauty_goddess">{{Cite Wechat|beauty_goddess}}</ref> "His" remaining part in the [[Cosmos]] was the [[Uncertain Mist]].
+|-
+|{{tl-abbr|l}}
+|
+* The [[Celestial Worthy]] and the [[Primordial God Almighty]] absorbed additional [[Sefirot]], which increased "Their" instinct for convergence until "They" could no longer control "Themselves", and "They" began taking actions against each other.<ref name="1.1272" /> 
+** The [[Celestial Worthy]] accommodated the [[Nation of Disorder]] and the [[River of Eternal Darkness]].<ref name="2.1088">{{Cite Book|2|1088}}</ref>
+** The [[Primordial God Almighty]] accommodated the {{Seq|City of Calamity}} and the {{Seq|Tenebrous World}}.<ref name="2.1088" /><ref name="2.1125">{{Cite Book|2|1125}}</ref>
+* The [[Primordial God Almighty]] and [[Celestial Worthy]]'s strength deterred the [[Outer Deities]], who could only settle for observing Earth from afar.
+* During this era, the [[Primordial God Almighty]] served as the sun.
+|-
+!'''6,646 BA - 6,644 BA'''
+!'''The Era of Destruction (Year 564–566)'''<ref name="wechat_history" />
+|-
+|{{tl-abbr|?}}
+|
+* The [[Primordial God Almighty]] and the [[Brood Hive]] gave birth to [[Omebella]] and [[Zedus]], making certain arrangements.<ref name="2.1115">{{Cite Book|2|1115}}</ref>
+* The [[Son of Chaos]] was sealed inside the [[Magic Wishing Lamp]] by the [[Celestial Worthy]], and became the [[Genie]].<ref name="wechat_beauty_goddess" /><ref name="1.1241">{{Cite Book|1|1241}}</ref><ref name="2.1089">{{Cite Book|2|1089}}</ref>
+|-
+|{{tl-abbr|l}}
+|
+* The [[Celestial Worthy]] and the [[Primordial God Almighty]] engaged in full-scale war, extinguishing the "sun" and plunging the world into darkness. In the end, both perished.<ref name="1.1369">{{Cite Book|1|1369}}</ref><ref name="1.1347">{{Cite Book|1|1347}}</ref><ref name="1.1380">{{Cite Book|1|1380}}</ref>
+** The [[Blasphemy Slate#First Blasphemy Slate|First Blasphemy Slate]] was born from the remains of the [[Primordial God Almighty]] in the [[Chaos Sea]], and beside it was the [[Uniqueness]] of the [[Error Pathway]].<ref name="1.1369" />
+** The [[Sefirot]] other than the [[Chaos Sea]] and the [[Sefirah Castle]] were sealed in the [[Western Continent]] by the [[Celestial Worthy]].<ref name="1.1369" />
+*** Before the seal, the [[Creatures and Plants#Elf|Elves]] left the [[Western Continent]] and were never able to return.<ref name="1.1067" />
+|-
+!'''6,643 BA - 6,229 BA'''
+!'''The Era of Carnage (Year 567–981)'''<ref name="wechat_history" />
+|-
+|{{tl-abbr|?}}
+|
+* The Beyonder races, once suppressed by the two [[Pillars]], lost their restraints. Driven by madness and the instinct to converge, they fought against the kins of chaos and each other, staining the land and seas with blood.
+* [[Omebella]] was driven by maternal instinct to end the chaos.
+* [[Zedus]] sought only the body bearing the {{Uniqueness|Moon}}, aiming to ascend through the blessings the [[Brood Hive]] granted across the barrier.
+|-
+|{{tl-abbr|l}}
+|
+* [[Omebella]] discovered [[Aurmir]], and helped him regain some rationality.
+* [[Zedus]]' death and the birth of [[Aurmir]], the first [[Ancient Gods|Ancient God]], marked the end of the First Epoch—the rise of a true deity not born of the [[Original Creator]]. The barrier's countdown began.
+|-
+|{{tl-abbr|?}}
+|
+*The new [[Seven Lights]] was born from the [[Spirit World]].<ref name="1.1272" />
+|-
+|c. 7,000 BA
+|
+*[[Edefana]] was born. "He" was corrupted by the [[Primordial God Almighty]].<ref name="1.1112">{{Cite Book|2|1112}}</ref>
+|}
+<noinclude>
+{{References}}
+[[Category:Timeline Templates]]
+</noinclude>

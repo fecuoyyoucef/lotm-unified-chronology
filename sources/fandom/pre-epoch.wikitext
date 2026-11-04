@@ -1,0 +1,48 @@
+<noinclude>{{PrevNext|next = Template:Timeline/First_Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''Genesis'''
+|-
+|More than 13.8 billion BA<ref>[[Wikipedia:Age of the universe|Approximate age of the Universe]]</ref>
+|
+|
+*At the beginning, the [[Original Creator]] created the universe and was the incarnation of all things.<ref>{{Cite Book|1|1261}}</ref>
+**On the first day, the [[Original Creator]] awoke and created this world.<ref name="2.1171">{{Cite Book|2|1171}}</ref>
+**On the second day, the [[Oldest One]] birthed the [[Mother Goddess of Depravity]], the [[Mother Tree of Desire]], and the [[Son of Chaos]].<ref name="2.1171" />
+**On the third day, the [[Oldest One]] and the [[Mother Goddess of Depravity|Mother Goddess]] united, and the Mother of All Things gave birth to a firstborn daughter, the [[Goddess of Fate]].<ref name="2.1171" />
+**After the [[Goddess of Fate]], the other [[Outer Deities]] were born one after another from the union between the [[Original Creator]] and the [[Mother Goddess of Depravity]].<ref>{{Cite Book|2|1090}}</ref><ref>{{Cite Wechat|um|8}}</ref>
+***The [[Circle of Inevitability]] was "Their" eldest son.<ref>{{Cite Wechat|giant_formulas|54}}</ref> 
+|-
+! colspan="3" |'''Human Civilization'''
+|-
+|
+|
+|
+*The [[Original Creator]] entered deep slumber underground.<ref name="1.1169">{{Cite Book|1|1169}}</ref>
+*In "His" sleep, the [[Original Creator]] split into multiple personas. "They" were also in a state of slumber, but "They" began to use the authority and [[Beyonder Characteristics]] "They" controlled to influence the world, making many preparations for when the true awakening and dissociation occured. The [[Primordial God Almighty]] and the [[Celestial Worthy of Heaven and Earth for Blessings]] were the most powerful and active ones among all personas.<ref>{{Cite Book|1|1369}}</ref>
+*Many folklores and legends in this time were based on actual mysterious events.
+|-
+|
+|
+|
+*'''Human Civilization''' reached at least 21st century of the '''modern period''' under the [[Wikipedia:Gregorian calendar|Gregorian calendar]].
+|-
+|
+|{{tl-abbr|?}}
+|
+*The research institute in [[Chernobyl]] discovered something deep inside the field, and people started to turn into crude oil. The research facility has been sealed from the outside.<ref>{{Cite Book|1|1222}}</ref>
+|-
+|
+|2020 AD{{refn|group=Note|Roselle mentioned several contemporary media — ''Lin Gao’s Five Hundred Good-for-nothings'' {{c|临高启明}}, ''Tik Tok'', ''Kings of Glory'' and ''PUBG'' — that he had engaged with before his transmigration.<ref>{{Cite Book|1|359}}</ref>}}
+|
+*The [[Celestial Worthy of Heaven and Earth for Blessings]] made certain preparations by secretly seizing the [[Soul#Spirit Body|Spirit Bodies]] of people through various means and hung them in the transparent cocoons in the [[Sefirah Castle]] as "His" candidates.<ref>{{Cite Book|1|948}}</ref><ref name="1.1169" /><ref>{{Cite Book|1|1357}}</ref>
+**[[Roselle Gustav|Huang Tao]] bought a mysterious silver plate with some strange symbols and patterns engraved on it.<ref>{{Cite Book|1|359}}</ref>
+**[[Klein Moretti|Zhou Mingrui]] discovered an old book and performed the [[Luck Enhancement Ritual]].<ref>{{Cite Book|1|9}}</ref>
+|}<noinclude>
+{{References}}
+<references group="Note"/>
+[[Category:Timeline Templates]]</noinclude>

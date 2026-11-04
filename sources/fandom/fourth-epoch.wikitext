@@ -1,0 +1,291 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/Third_Epoch|next=Template:Timeline/Fifth Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''Warring Era'''
+|-
+|2,582 BA<ref name="C138" />
+|0, Jan 1
+|
+*The death of the [[Ancient Sun God]].
+* The birth of the [[True Creator]].<ref>From [https://weibo.com/7344384861/JB4hFkZ7y Official Weibo's post]</ref>
+**The remnant consciousness of the Ancient Sun God was only able to obtain the [[Hanged Man Pathway|Hanged Man]]'s Uniqueness and characteristics from "His" dead corpse to create the [[True Creator]].<ref name="C1346">{{Cite Book|1|1346}}</ref>
+|-
+|
+|
+|
+*The [[Blasphemy Slate#Second Blasphemy Slate|Second Blasphemy Slate]] was born after the fall of the [[Ancient Sun God]].
+**[[Bethel Abraham]], [[Solomon]], [[Zaratul Senior|Zaratul]], [[Alista Tudor]], [[Trunsoest]], Augustus, Einhorn, Sauron, Castiya, Zoroast, Stiano, Constantine<ref>{{Cite Book|1|1036}}</ref>, [[Primordial Demoness|Cheek]], and [[God of Steam and Machinery|the Artisan]]<ref name="C1134">{{Cite Book|1|1134}}</ref> saw the complete [[Blasphemy Slate#Second Blasphemy Slate|Second Blasphemy Slate]], before [[Adam]] took the Slate away.<ref>{{Cite Book|1|1038}}</ref>
+*Sealed Artifact 0-13 [[The Last Banquet]] originated from the Ancient Sun God, and fell into the hands of the [[Church of the Eternal Blazing Sun]].<ref name="C1178">{{Cite Book|1|1178}}</ref>
+*The [[Unshadowed Crucifix]] fell into the hands of [[Adam]].<ref>{{Cite Book|1|1033}}</ref>
+|-
+| 2,582 BA - c. 2,470 BA<ref name="C1065">{{Cite Book|1|1065}}</ref>
+|
+| 
+*[[Creatures_and_Plants#Beastmen|Beastmen]] and [[Creatures_and_Plants#Treant|Treants]] went extinct after the Cataclysm.<ref>{{Cite Book|1|954}}</ref>
+*This is an era full of conflicts and wars.
+|-
+|
+|
+|
+* In the [[Forsaken Land of the Gods]], the '''Kingdom of Silver''' was gradually destroyed by the Things of the Dark, until they were in a city-state and called themselves the "[[City of Silver]]".<ref name="C138">{{Cite Book|1|138}}</ref>
+|-
+|
+|
+|
+*In this era, Gods walked the land and frequently performed miracles.<ref>{{Cite Book|1|265}}</ref><ref name="C698">{{Cite Book|1|698}}</ref> "They" established "Their" so-called [[List of Orthodox Organizations|Orthodox Churches]].
+
+{| style="margin-left: 20px;"
+|
+*[[Church of the Evernight Goddess]]
+*[[Church of the God of Combat]]
+*[[Church of the Earth Mother]]
+|
+*[[Church of the Lord of Storms]]
+*[[Church of the God of Knowledge and Wisdom]]
+*[[Church of the Eternal Blazing Sun]]
+|}
+|-
+|
+|
+|
+*The first angel of the [[Zoroast Family]] perished. With the help of Solomon, the Zoroast family didn't lose the Beyonder Characteristics.<ref name="C1065" />
+|-
+|
+|
+|
+*[[Salinger]] became Sequence 0 of the [[Death Pathway]] around this time.
+|-
+! colspan="3" |'''The First Solomon Empire'''
+|-
+|Start c. 2,470 BA
+|
+|
+*[[Solomon]] became a Sequence 0 of the [[Black Emperor Pathway]]. "He" established the [[Solomon Empire]], and ruled over the [[Northern Continent]]. "He" was supported by multiple Angel Families and the [[True Creator]].
+|-
+|
+|
+|
+*[[Antigonus]] advanced to {{Seq|Attendant of Mysteries}}, “He” left the [[Hornacis Mountain Range]] and returned to the real world outside the [[Nation of the Evernight]].<ref name="C1374">{{Cite Book|1|1374}}</ref> "He" was one of the supporters of the Solomon Empire.<ref name="C9">{{Cite Book|1|9}}</ref>
+|-
+|
+|
+|
+*The Gods were hostile to each other. Thus "They" couldn't form an alliance to fight the Black Emperor and the True Creator.<ref name="C1065" />
+**The [[Evernight Goddess]], the [[God of Combat]] and [[Death]] were confronting each other
+**The [[Lord of Storms]], the [[Eternal Blazing Sun]] and the [[God of Knowledge and Wisdom]] had great disputes
+** The [[Earth Mother]]'s attitude was ambiguous, though "She" was slightly leaned towards the [[God of Combat]].
+|-
+|
+|
+|
+*[[Death]] united the [[Southern Continent]] and established the [[Balam Empire]],<ref name="C1065" /> "He" called "Himself" the "Underworld Emperor".
+|-
+|
+|
+|
+*[[Mobet Zoroast]] was born around this time. He was later sucked into the [[Groselle's Travels]] after a large-scale war.<ref>{{Cite Book|1|697}}</ref><ref>{{Cite Book|1|1074}}</ref>
+|-
+|
+|
+|
+*[[Alista Tudor]] and [[Trunsoest]] rebelled against Solomon and the Solomon Empire with the support of the Six Orthodox Gods. Solomon and Solomon Empire perished.
+|-
+! colspan="3" |'''United Empire'''
+|-
+|
+|{{tl-abbr|?}}
+|
+*[[Tudor-Trunsoest United Empire]] was established. Its double consul ruled over the [[Northern Continent]]. Angel Families mostly turned to support "Them", except [[Zaratul Family|Zaratul]] and [[Zoroast Family]] which still faithfully believed in the Black Emperor.
+
+{| style="margin-left: 10px;"
+|
+;<u>[[Tudor Empire]]</u>
+
+*[[Tudor Family]]
+*[[Abraham Family]]
+*[[Antigonus Family]]
+*[[Amon Family]]
+*[[Jacob Family]]
+*[[Tamara Family]]
+|
+;<u>[[Trunsoest Empire]]</u>
+
+*[[Trunsoest Family]]
+*[[Augustus Family]]
+*[[Castiya Family]]
+*[[Einhorn Family]]
+*[[Sauron Family]]
+*[[Sanguines]]
+|}
+|-
+|
+|{{tl-abbr|?}}
+|
+*The [[Primordial Demoness]] became Sequence 0 around this time and formed the [[Demoness Sect|Demoness family]].<ref>{{Cite Book|1|440}}</ref>
+|-
+|
+|{{tl-abbr|?}}
+| 
+*[[Antigonus]] managed to accommodate the [[Uniqueness]] of the [[Fool Pathway]] with the help of [[Adam]] and [[Amon]]. "He" became the Half-Fool.<ref>{{Cite Book|1|1358}}</ref>
+|-
+|
+|
+|
+*During that time, [[Alista Tudor]] secretly built the mausoleums as part of the apotheosis ritual to become Sequence 0: Black Emperor, with [[Bethel Abraham]]'s assistance.<ref>{{Cite Book|1|1112}}</ref> However, "His" plan failed due to the resurrection of [[Solomon]].
+|-
+|2,093 BA
+|489, Nov 4<ref name="ChineseLOTMDiscordSheet">[https://docs.google.com/spreadsheets/d/1fxRmF42epaPPa3D7aaSNAnKSsoH9rdzd315ig-iF8S8/edit#gid=1546615472 Google spreadsheet from the Chinese Lord of Mysteries Discord]</ref>
+|
+*[[Azik Eggers]] was born. Later "He" became the {{seq|Death Consul}} of the [[Balam Empire]].
+|-
+! colspan="3" |'''The Second Solomon Empire'''
+|-
+|
+|
+|
+*The six gods supported [[Trunsoest]] to promote to Sequence 0 of the [[Justiciar Pathway]].
+*[[Trunsoest]] gained the support of the [[Sanguines]] through "His" marriage with the [[Auernia|Blood Moon Queen Auernia]].<ref name="C469" />
+|-
+|2,072 BA<ref name="MS4">[https://mp.weixin.qq.com/s/grH6X-0_p9vX69e8ukhKSw Mysteries Setting (4)]</ref>
+|510, Jul 29
+| 
+*With the aid from [[Adam]] and [[Amon]], [[Alista Tudor]] entrapped and killed all 3 Sequence 1 Angels of the [[Red Priest Pathway]].
+*[[Medici]], [[Sauron]], and [[Einhorn]] died.
+*The [[Sauron-Einhorn-Medici]] evil spirit was born.<ref name="MS4" />
+|-
+|
+|
+|
+*[[Alista Tudor]] switched "His" pathway and became a Sequence 0 of the [[Red Priest Pathway]], but went mad as the cost of switching to a non-neighboring pathway.<ref>{{Cite Book|1|964}}</ref>
+|-
+|
+|
+|
+*[[Solomon|Black Emperor Solomon]] managed to resurrect and rebuild the Second [[Solomon Empire]].
+*[[Tudor-Trunsoest United Empire]] broke apart.
+|-
+! colspan="3" |'''War of the Four Emperors'''
+|-
+| 
+*
+1,535 BA<ref name="2.857">{{Cite Book|2|857}}</ref> -  c. 1,500 BA<ref>{{Cite Book|1|82}}</ref><ref name="C142">{{Cite Book|1|142}}</ref><ref>{{Cite Book|1|358}}</ref><ref>{{Cite Book|1|374}}</ref><ref>{{Cite Book|1|448}}</ref><ref>{{Cite Book|1|496}}</ref>
+*Start in year 1,047, 537 years after Alista became the Red Priest.<ref name="2.857" />
+|
+|
+*The Four Emperors, who were all Sequence 0, fought against each other along with "Their" subordinate Angel Families.
+|-
+|
+|{{tl-abbr|l}}
+|
+*[[Auernia|Blood Moon Queen Auernia]] died.<ref name="C469" />
+**The Sanguines suffered a terrible blow and had no choice but to retreat to an uninhabited mountain to hide in the shadows.<ref name="C469">{{Cite Book|1|469}}</ref>
+|-
+|
+|
+|
+*[[Solomon|Black Emperor Solomon]], [[Alista Tudor|Blood Emperor Tudor]] and [[Trunsoest|Night Emperor Trunsoest]] perished in the war.
+**Sealed Artifact 0-02 [[Trunsoest Brass Book]] originates from Trunsoest's Justiciar Uniqueness that had been corrupted by the Sefirah [[Nation of Disorder]].<ref name="C1288">{{Cite Book|1|1288}}</ref> It fell into the hands of the [[Church of the God of Combat]].
+|-
+|
+|
+|
+*After the fall of the Blood Emperor, Angel Families under the Tudor Empire declined.<ref>{{Cite Book|1|60}}</ref>
+**[[Zaratul Senior|The ancestor of the Zaratul Family]] was killed by the Half-Fool [[Antigonus]] and [[Bethel Abraham]].<ref name="C1104">{{Cite Book|1|1104}}</ref>
+**[[Bethel Abraham]] was banished by the [[Evernight Goddess]] and the [[Lord of Storms]].<ref name="C1104" /> The remaining High-Sequence Beyonders in the family all perished.<ref name="C336">{{Cite Book|1|336}}</ref>
+**[[Evernight Goddess]] sealed [[Antigonus]] in the [[Hornacis Mountain Range#Foggy Town|Foggy Town]] after "He" lost control and went mad.
+**The [[Church of the Evernight Goddess]] eliminated the [[Antigonus Family]] and the [[Nation of the Evernight]].
+**[[Mother of the Sky]] was turned into [[Angel of Concealment|Sealed Artifact 0-17]], a vessel for Evernight Goddess' descent.<ref>{{Cite Book|1|474}}</ref>
+|-
+|
+|
+|
+*The [[Salinger|Underworld Emperor]] was said to benefit the most from the war, gaining the [[Uniqueness]] of [[Red Priest Pathway]].<ref name="C1369" /><ref>{{Cite Book|1|839}}</ref>
+|-
+|
+|
+|
+*At some point in time, [[Amon]] secretly killed the ancestor of the [[Jacob Family]] and obtained "His" Sequence 1 characteristic. "He" then pretended to be [[Jacob]] in the later years of the Fourth Epoch.<ref>{{Cite Book|1|1205}}</ref>
+|-
+|
+|
+|
+*Sealed Artifact 0-32 [[Theater With Curtains That Never Draw]] was a product of this era. It later fell into the hands of the [[Church of the Lord of Storms]].<ref name="C1178" />
+|-
+|
+|
+|
+*The [[God of Steam and Machinery|God of Craftsmanship]] became Sequence 0 during the late stage of this epoch,<ref>{{Cite Book|1|961}}</ref> sometime after the War of the Four Emperors and before the Pale Disaster.<ref>{{Cite Book|2|962}}</ref>
+**[[God of Steam and Machinery|God of Craftsmanship]] did not digest the sequence 1 potion well before promoting to sequence 0 for various reasons. Thus "He" was also the weakest God of the seven Orthodox Gods.<ref name="C1377">{{Cite Book|1|1377}}</ref> "His" birth is related to the [[Moses Ascetic Order]].<ref name="RedditInterview">[https://www.reddit.com/r/LordofTheMysteries/comments/h8tm5y/we_interviewed_the_og_lord_of_the_mysteries/ We Interviewed the OG Lord of The Mysteries Himself]</ref>
+**The revival of the [[Hidden Sage]] is related to the relationship between the [[Moses Ascetic Order]] and the God of Craftsmanship of the Fourth Epoch.<ref name="RedditInterview" />
+|-
+|More than 1,730 BA<ref name="C1213">{{Cite Book|1|1213}}</ref>
+|
+|
+*The High Priest of the [[Moon City]] designed the honorific name, prayer stanza, and the corresponding symbols for The Eternally Imperturbable Fog, the barrier fog that sealed the [[Western Continent]], and he vaguely heard a series of voices coming from deep within the fog.<ref name="C1213" />
+|-
+! colspan="3" |'''Pale Era'''
+|-
+|
+|
+|
+*This era lasted until [[Salinger|Death]] perished in the early Fifth Epoch.<ref>{{Cite Book|1|1041}}</ref>
+*In the [[Northern Continent]], only the '''Trunsoest Empire''' survived and was split by the four noble families. "They" established the Four Great Nations of the Northern Continent, under the support of different Orthodox Gods.
+{| style="margin-left: 10px;"
+!Family
+!Nation Founded
+!Gods supported
+|-
+|[[Augustus Family|Augustus]]
+|[[Loen Kingdom]]
+|[[Lord of Storms|<u>'''Lord of Storms'''</u>]], [[Evernight Goddess]], [[God of Steam and Machinery|God of Craftsmanship]]
+|-
+|[[Castiya Family|Castiya]]
+|[[Feynapotter Kingdom]]
+|[[Lilith#Earth Mother 2|'''<u>Earth Mother</u>''']] [[God of Knowledge and Wisdom]]
+|-
+|[[Einhorn Family|Einhorn]]
+|[[Feysac Empire|Feysac Kingdom]]
+|[[God of Combat|'''<u>God of Combat</u>''']]
+|-
+|[[Sauron Family|Sauron]]
+|[[Intis Republic|Intis Kingdom]]
+|[[Eternal Blazing Sun|'''<u>Eternal Blazing Sun</u>''']], [[God of Steam and Machinery|God of Craftsmanship]]
+|}
+|-
+|
+|
+|
+*[[Abraham Family]] gradually declined because of the curse on [[Blood Moon]] night.
+*[[Sanguines]] retreated to an uninhabited mountain to hide in the shadows so as to maintain the continuation of the race.<ref name="C469" />
+|-
+|
+*Over 100 years after the War of the Four Emperors ended, the Pale Disaster began<ref>{{Cite Book|2|900}}</ref>
+|
+|
+*[[Salinger|Death]] left a piece of "His" soul in [[Azik Eggers]] in order to resurrect in the future.
+*[[Salinger|Death]] went mad from attempting to accommodate the [[Uniqueness]] of [[Red Priest Pathway]] with the help of the [[River of Eternal Darkness]].<ref name="C217">{{Cite Book|1|217}}</ref><ref name="C1369">{{Cite Book|1|1369}}</ref>
+*After over a century of "digestion". "He" wasn’t able to resist the desire for converging the [[Twilight Giant Pathway|Twilight Giant]] and [[Darkness Pathway|Darkness]] pathways, "He" joined forces with the [[Primordial Demoness]] to wreak havoc and create a Pale Disaster on the Northern Continent.<ref name="C217" /><ref name="C1369" />
+|-
+|
+|
+| 
+*Apart from the three great empires and the true deities and Kings of Angels behind them, the Fourth Epoch also had the influence of the [[Demoness Sect]] and the [[Moses Ascetic Order]]. There was also the [[Abyss]]’ infiltration and secretly developed [[Church of the God of Steam and Machinery|Artisans]], as well as the [[Southern Continent]]’s Balam.
+|-
+|
+|
+|
+*In addition, there were many crucial factors at stake. With the fading will of the [[Original Creator]]:
+**The [[Original Creator#Astral Barrier|Barrier]] was weakening. Along with the death of the [[Ancient Sun God]], the invasion of reality by the Outer Deities clearly deepened.<ref name="C1348">{{Cite Book|1|1348}}</ref>
+**The seal on the [[Western Continent]] by the [[Celestial Worthy of Heaven and Earth for Blessings]] was gradually weakening. The [[Sefirot]] instinctively (or consciously) used "Their" symbolism to corrode "Their" respective [[Uniqueness]] and High-Sequence Beyonder characteristics in an attempt to influence the outside world. In the Fourth Epoch, traces of more Sefirot began to appear on the Northern and Southern Continents and the islands over the Five Seas.<ref name="C1369" />
+***The [[City of Calamity]] secretly seeped out energy from sealed [[Western Continent]], affecting the cities behind the door of [[Bansy Harbor|Binsy Town]].<ref>{{Cite Book|1|1339}}</ref><ref name="C1348" /><ref name="C1369" />
+***The [[Nation of Disorder]] corrupted the Justiciar Uniqueness and turned it into the [[Trunsoest Brass Book]].<ref name="C1288" />
+|-
+|
+|
+|
+*At the end of the Fourth Epoch, cracks appeared on the [[Original Creator#Astral Barrier|Barrier]]. The Seven Orthodox Gods had to move "Their" divine kingdoms to the [[Astral World]] to fill in the gap.<ref name="C1271">{{Cite Book|1|1271}}</ref>
+|}<noinclude>{{References}}[[Category:Timeline Templates]]</noinclude>

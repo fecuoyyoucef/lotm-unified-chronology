@@ -1,0 +1,201 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/First_Epoch|next=Template:Timeline/Third_Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''The Budding/Sprouting Era (0–1268):'''
+|-
+|
+|
+|
+*The Eldritch Kin of Chaos (of The Original Creator) gradually dwindled and eliminated. A mythical era of rivalry among King of Giants, King of Elves, King of Mutants, Dragon, Phoenix, Demonic Wolf, Races of the Sea, and Demons began. At this time, except for mutants and werewolves who were divided, the giants, elves, vampires, and humans are still coexisting as a single unified “human” race (or race of humanoids), they have yet to split.
+*'''First-generation of Ancient Gods''' appeared one after another. The sky, the land, the sea, and the underground world slowly changed from disorderliness to orderliness.<ref name="C1067" />
+*After the supernatural races obtained a certain level of intelligence and had their own languages, creatures finally had some knowledge of history. The first language, [[Languages#Elvish|Elvish]], was created by the first-generation Elf King.<ref name="C1067" />
+|-
+! colspan="3" |'''Early Era of Fire (1268–1730):'''
+|-
+|
+|
+|
+*Due to the purification of Beyonder Characteristics, the major races have evolved their own characters and civilizations, and eight [[Ancient Gods]] have emerged one after another.<ref name="C1067">{{Cite Book|1|1067}}</ref>
+|-
+| Start c. 5,500 BA - c. 5,000 BA
+* Start less than 1,000 years before the end of the Early Era of Fire<ref name="C1067" />
+|
+|
+*The world was ruled by eight [[Ancient Gods]], "They" ruled sky, land, and oceans. "They" ruled over the [[Spirit World]] and [[Astral World]], and various races.<ref>{{Cite Book|1|313}}</ref>
+*"They" fought against each other in different camps,  quasi-humans fought non-humans, devils, and demonic wolves.<ref name="C1067" />
+{| style="margin-left: 20px;" width="auto"
+|
+;<u>Quasi-Humans</u>
+
+*[[Giant King Aurmir]]
+*[[Elf King Soniathrym]]
+*[[Sanguine Ancestor Lilith]]
+|
+;<u>Non-Humans</u>
+
+*[[Dragon of Imagination Ankewelt]]
+*[[Phoenix Ancestor Gregrace]]
+*[[Mutated King Kvastir]]
+|-
+| colspan="2" |
+;<u>Individual Beings</u>
+
+*[[Devil Monarch Farbauti]]
+*[[Annihilation Demonic Wolf Flegrea]]
+|}
+|-
+|
+|Unknown Year, Dec 22
+|
+*[[Evernight Goddess|Amanises]] transmigrated. "She" was the Goddess of Misfortune, one of the [[Subsidiary Gods]] of the [[Annihilation Demonic Wolf Flegrea]].
+|-
+|
+|
+|
+* Humans were subordinates or even slaves of Giants, Elves, and [[Sanguines]].<ref name="C1067" />
+*[[Giant King Aurmir]] buried "His" parents inside the Waning Forest of the [[Giant King's Court]].<ref name="C698">{{Cite Book|1|698}}</ref>
+*The [[City of Silver|Kingdom of Silver]] was ruled by the [[Giant King's Court]] and later came under its jurisdiction. They believed in [[Omebella]].<ref>{{Cite Book|1|523}}</ref>
+|-
+|
+|{{tl-abbr|?}}
+|
+*The [[Ancient Sun God]] walked out the [[Chernobyl]]. "He" gained the [[Blasphemy Slate#First Blasphemy Slate|First Blasphemy Slate]], the control over the [[Chaos Sea]], and the [[Uniqueness]] of the [[Error Pathway]].<ref name="C1369">{{Cite Book|1|1369}}</ref>
+|-
+|
+|{{tl-abbr|sa}}
+|
+*Not long after "He" walked out of Chernobyl, "He" created [[Sasrir]] with part of "His" personality, Authority of Degeneration and Characteristics of [[Hanged Man Pathway]].<ref name="C1261">{{Cite Book|1|1261}}</ref> Sasrir became the '''first King of Angels''' of the Ancient Sun God.<ref name="C1063">{{Cite Book|1|1063}}</ref>
+|-
+|c. 4,568 BA - c. 4,468 BA
+*800-900 years before the end of the [[Second Epoch]].<ref>{{Cite Book|2|1112}}</ref>
+|{{Tl-abbr|l}}
+|
+*[[Giant King Aurmir]] betrayed [[Lilith|Sanguine Ancestor Lilith]] and caused "Her" to perish. [[Mutated King Kvastir]] and [[Annihilation Demonic Wolf Flegrea]] also died with "Her".<ref name="C1066">{{Cite Book|1|1066}}</ref>
+*"Their" [[Subsidiary Gods]] were either killed, turned to other Gods, or vanished and hid in the dark.<ref name="C1066" /> 
+** Lilith's Goddess of Life and Kvastir's God of War were killed. No one remembers "Their" names.
+**Flegrea's [[Salinger|God of the Dead]] turned to [[Phoenix Ancestor Gregrace]].
+**Kvastir's God of Spiritual Creatures and Flegrea's [[Evernight Goddess|Goddess of Misfortune]] vanished.
+**Lilith's [[Auernia|Goddess of Beauty]] turned to [[Elf King Soniathrym]].
+*After [[Lilith]] perished, [[Elf King Soniathrym]] went to Giant King's Court to confront the Giant King.<ref name="C1066" />
+|-
+! colspan="3" |'''The Dual Era (1730–1960)'''
+|-
+|
+|
+|
+* The war continued for several hundred years. During this time, '''giants''' and '''dragons''' were the dominant race.<ref name="C1067" />
+*When a new balance between the five races was formed, the world had recovered some level of peace.<ref name="C1066" />
+**The giants, elves, dragons, devils, and phoenixes coexisted, splitting up their rule over lands and seas.
+**Vampires, demonic wolves, treants, sea monsters, mutants, and humans were vassals of the different factions, occupying the lower-middle classes.
+|-
+|
+|{{tl-abbr|?}}
+|
+*The new generation of supernatural races gradually gained some level of rationality.<ref name="C1067" />
+**[[Groselle]] and [[Siatas]] were born.
+|-
+|
+|{{Tl-abbr|?}}
+|
+*The Ancient Gods had attempted to resolve the pollution of the [[Chaos Sea]] completely. Later, "They" gave up on the idea of directly exerting influence, and "They" switched focus to sealing and guarding it.<ref>{{Cite Book|1|1105}}</ref>
+**[[Dragon of Imagination Ankewelt]] sealed the pollution of the [[Chaos Sea]] in [[Groselle's Travels]], and "He" hid the City of Miracle [[Liveseyd]] inside the subconsciousness of the book.<ref>{{Cite Book|1|1070}}</ref>
+|-
+|
+|{{Tl-abbr|?}}
+|
+* The [[River of Eternal Darkness]] was the first Sefirah to seep out energy from the sealed [[Western Continent]] and formed a distributary through [[Phoenix Ancestor Gregrace]] to the outside world.<ref name="C1369" />
+**[[Phoenix Ancestor Gregrace]] created the Underworld that exists in the [[Spirit World]].<ref>{{Cite Book|1|480}}</ref>
+***"She" transferred [[Calderón City]] and hid the clues about the [[River of Eternal Darkness]] inside.<ref>{{Cite Book|1|920}}</ref>
+|-
+|Earlier than 3,000 BA<ref>{{Cite Book|1|1250}}</ref>
+| 
+|
+*[[Groselle]] entered [[Groselle's Travels]].
+|-
+|
+|{{Tl-abbr|?}}
+|
+*[[Giant King Aurmir]] wanted to work with some secret sects that have sprouted from the humans to deal with [[Elf King Soniathrym]]. This matter was led by [[Omebella|Goddess of Harvest Omebella]] and [[God of Combat|God of Dawn Badheil]].<ref name="C1066" />
+|-
+|
+|{{Tl-abbr|?}}
+|
+*[[Siatas]] entered [[Groselle's Travels]].
+|-
+! colspan="3" |'''Rise of Ancient Sun God'''
+|-
+| c. 3,000 BA
+|
+|
+*The [[Evernight Goddess]]' followers formed a secret organization.<ref>{{Cite Book|1|1064}}</ref>
+**The Revelation of Evernight indicates that the church is nearly 3000 years old, but there are mythical legends before that.<ref name="C142">{{Cite Book|1|142}}</ref>
+|-
+|
+|{{Tl-abbr|?}}
+|
+*[[Ancient Sun God]] fought against the ancient gods and took "Their" powers.
+**[[Dragon of Imagination Ankewelt]], [[Elf King Soniathrym]], [[Phoenix Ancestor Gregrace]], [[Giant King Aurmir]] perished because of  "Him".
+**[[Devil Monarch Farbauti]] escaped to the [[Abyss]] and hid there ever since. "He" goes by the name "'''Dark Side of the Universe'''" in the [[Fifth Epoch]].
+***After the Second Epoch, the [[Abyss]] had never revealed itself to the world again.<ref>{{Cite Book|1|1129}}</ref> After an unknown period of time, before Roselle's era in the Fifth epoch, it had changed and it was no longer suitable for devils to survive.<ref>{{Cite Book|1|1128}}</ref>
+|-
+|
+|
+|
+*[[Omebella]] fell at the end of the Second Epoch. "Her" corpse became a Grade 0 Sealed Artifact [[Gift of the Land]], which is owned by the current [[City of Silver]].<ref>{{Cite Book|1|571}}</ref><ref name="C1266">{{Cite Book|1|1266}}</ref>
+***[[Lilith]] pretended to be [[Omebella]] from this point forward with the help of the [[Ancient Sun God]] and the [[Evernight Goddess]].<ref>{{Cite Book|1|1269}}</ref>
+**[[Queen of Calamity Cohinem]] split "Her" Beyonder characteristics and was in an unstable state.
+**[[God of Knowledge and Wisdom|Dragon of Wisdom]] turned to the Ancient Sun God and became the Wisdom Angel, one of "His" Kings of Angels.
+|-
+|
+|
+|
+*[[Ancient Sun God]] gradually promoted to the level of quasi-[[God Almighty]] and claimed "Himself" the Original Creator, '''the Omnipotent and omniscient God, the Lord that created everything'''.
+**The [[Primordial God Almighty]]'s consciousness was awakening inside the [[Ancient Sun God]]'s body. In order to reduce the madness originating from the corruption, "He" had deliberately used the method of having children.
+|-
+|
+|{{tl-abbr|?}}
+|
+*Ancient Sun God separated "His" [[Uniqueness]] and Sequence 1 Beyonder Characteristics of the [[Visionary Pathway]] and created [[Adam]]. Beyond reducing corruption, this also hid "His" resurrection method.<ref name="C1346">{{Cite Book|1|1346}}</ref>
+|-
+|
+|
+|
+*The [[City of Silver|Kingdom of Silver]] convert their faith from [[Omebella]] to the [[Ancient Sun God|Omnipotent and omniscient God, the Lord that created everything]].
+|-
+|
+|Unknown Year, Aug 8<ref name="ChineseLOTMDiscordSheet">[https://docs.google.com/spreadsheets/d/1fxRmF42epaPPa3D7aaSNAnKSsoH9rdzd315ig-iF8S8/edit#gid=1546615472 Google spreadsheet from the Chinese Lord of Mysteries Discord]</ref>
+| 
+*The [[Quill of Alzuhod]] appeared at the end of the Second Epoch.<ref>{{Cite Wechat|0-08}}</ref> This Sealed Artifact originated from the [[Alzuhod|Dragon of Nightmare Alzuhod]], the son of the Dragon of Imagination Ankewelt. At an unknown point in time, it fell into the hands of the [[Church of the Evernight Goddess]].
+|-
+|
+|{{Tl-abbr|?}}
+|
+*The [[Evernight Goddess]] became Sequence 0 some time at the end of the Second Epoch.<ref name="C18">{{Cite Book|1|18}}</ref>
+|-
+|
+|
+|
+*After the death of "Their" father, the [[Annihilation Demonic Wolf Flegrea]], [[Antigonus]] and the [[Mother of the Sky]] crossed the sea and came to the [[Northern Continent]]. "They" set up a hidden country, the [[Nation of the Evernight]] and the City of the Dead in the uninhabited [[Hornacis Mountain Range]].<ref name="C1374">{{Cite Book|1|1374}}</ref>
+|-
+|
+|{{Tl-abbr|?}}
+|
+*[[Languages#Hermes|Hermes Language]] was created based on [[Languages#Jotun|Jotun]] and [[Languages#Dragonese|Dragonese]] by [[Hermes]].
+|-
+|3,720 BA<ref name="C1213">{{Cite Book|1|1213}}</ref>
+|
+|
+*[[Medici|Red Angel Medici]] gave Moon City a Grade 1 [[Sealed Artifact]], which corresponds to sequence 4 {{seq|Iron-blooded Knight}} of [[Red Priest Pathway]].<ref>{{Cite Book|1|1227}}</ref>
+*After the vampire civilization was destroyed, [[Moon City]] followed the [[Ancient Sun God]].<ref>{{Cite Book|1|1212}}</ref>
+* The Ancient Sun God ordered the residents of the [[Moon City]] to guard the barrier fog that sealed the [[Western Continent]].<ref name="C1213" />
+|-
+|3,668 BA <ref name="2.1112">{{Cite Book|2|1112}}</ref>
+|
+|
+*The rise of the Ancient Sun God established a new era belonging to mankind - the [[Third Epoch]].
+|}<noinclude>{{References}}[[Category:Timeline Templates]]
+</noinclude>

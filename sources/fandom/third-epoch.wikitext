@@ -1,0 +1,88 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/Second_Epoch|next=Template:Timeline/Fourth_Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+! colspan="3" |'''Glorious Era'''
+|-
+|3,668 BA<ref>{{Cite Book|2|1112}}</ref>
+|0, Jan 3<ref name="ChineseLOTMDiscordSheet">[https://docs.google.com/spreadsheets/d/1fxRmF42epaPPa3D7aaSNAnKSsoH9rdzd315ig-iF8S8/edit#gid=1546615472 Google spreadsheet from the Chinese Lord of Mysteries Discord]</ref>
+|
+*[[Amon]] was born from the [[Uniqueness]] of the [[Error Pathway]] from the [[Ancient Sun God]], and a Sequence 1 Beyonder Characteristic.
+|-
+|
+|
+|
+*After the death of all [[Ancient Gods]], Humans walked out of the shadow of other races and became the dominant race of the land.
+*The [[Ancient Sun God]] became the absolute ruler of the world and the one and only Orthodox God. There were 8 [[Kings of Angels]] under "Him":
+{| style="margin-left: 20px;"
+|
+*[[Sasrir|Dark Angel Sasrir]]
+*[[Adam|Angel of Imagination Adam]]
+*[[Amon|Angel of Time Amon]]
+*[[God of Knowledge and Wisdom|Wisdom Angel Herabergen]]
+|
+*[[Lord of Storms|Wind Angel Leodero]]
+*[[Eternal Blazing Sun|White Angel Aucuses]]
+*[[Ouroboros|Angel of Fate Ouroboros]]
+*[[Medici|War Angel Medici]]
+|}
+|-
+|
+|{{tl-abbr|?}}
+|
+*[[Bladel|God of Glory Bladel]] publicly cursed the Ancient Sun God. "He" was punished to forever wandered around [[Chernobyl]].<ref name="C1166">{{Cite Book|1|1166}}</ref>
+|-
+|
+|{{tl-abbr|?}}
+|
+*[[Snowman]] was born around this time before he entered [[Groselle's Travels]].
+|-
+|
+|
+|
+*Some of the [[Evernight Goddess]]' believers hid within the church of the [[Ancient Sun God]].<ref name="C1063">{{Cite Book|1|1063}}</ref>
+|-
+|
+|{{tl-abbr|?}}
+|
+*The [[Lilith|Earth Mother]] and the [[God of Combat]] became Sequence 0 around this time.<ref>{{Cite Book|1|1117}}</ref><ref name="C1261">{{Cite Book|1|1261}}</ref>
+|-
+! colspan="3" |'''Cataclysm Era'''
+|-
+|
+|
+|
+*[[Rose Redemption]] was founded under the tacit agreement of the [[Ancient Sun God]]. "They" often schemed in the [[Giant King's Court]].
+|-
+|
+|{{tl-abbr|?}}
+|
+*[[Sasrir]] fell asleep inside the [[Giant King's Court]].
+*[[Murskogan]] originally served [[Giant King Aurmir]], he later converted to Sasrir and guarded the giant door where Sasrir slept inside.<ref>{{Cite Book|1|1120}}</ref>
+|-
+|
+|
+|
+*[[Ancient Sun God]] was besieged by [[Rose Redemption]] and died at the place now known as the [[Sea of Ruins]].<ref name="C1153">{{Cite Book|1|1153}}</ref>
+|-
+|
+|{{tl-abbr|sa}}
+|
+*[[God of Knowledge and Wisdom|Wisdom Angel]], [[Eternal Blazing Sun|White Angel]], and [[Lord of Storms|Wind Angel]] betrayed the Ancient Sun God and shared "His" Beyonder Characteristics to become Sequence 0 of "Their" pathways.
+|-
+|
+|
+|
+*[[Bladel]] died during the Cataclysm, but "He" still wasn’t able to free ‘Himself” from the Ancient Sun God's punishment. "His" corpse was reanimated and continued to wander around [[Chernobyl]].<ref name="C1166" />
+|-
+|2,582 BA<ref name="C138">{{Cite Book|1|138}}</ref>
+|
+|
+*After the Ancient Sun God's death, the Eastern Continent where the [[City of Silver|Kingdom of Silver]] and [[Moon City]] were located was isolated from the rest of the world, and became known as the "[[Forsaken Land of the Gods]]".
+|}
+<noinclude>
+[[Category:Timeline Templates]]
+</noinclude>

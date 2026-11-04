@@ -1,0 +1,158 @@
+<noinclude>{{PrevNext|prev=Template:Timeline/Fifth_Epoch}}</noinclude>
+{| class="mw-collapsible article-table tl-row"
+|-
+!Time
+!Date
+!Event
+|-
+|
+|1352
+|
+* [[Aurore Lee]] moved to [[Cordu Village]].<ref name="b2c1">{{Cite Book|2|1}}</ref>
+|-
+|
+|1353
+|
+* Aurore went on a journey. She brought back a homeless child and named him [[Lumian Lee]].<ref name="b2c1"/>
+|-
+|
+|1356
+|
+* [[Clémence Athana]] was sealed, becoming [[Sealed Artifact]] [[1-147]].<ref>{{Cite Book|2|754}}</ref>
+|-
+! colspan="3" | 1357
+|-
+|
+| April 1
+|
+* Aurore purchased the Soul Summoning spell from the [[April Fool's]] Gathering.<ref>{{Cite Book|2|334}}</ref> This led to the manifestation of her split personality, '''Roche Louise Sanson'''.
+|-
+|
+| May or June
+|
+* Aurore begin propagating the faith of [[Circle of Inevitability|Inevitability]] in [[Cordu Village]].<ref>{{Cite Book|2|278}}</ref><ref>{{Cite Book|2|332}}</ref>
+|-
+|
+| July to August
+|
+* Aurore covertly approached [[Guillaume Bénet]] and advised him to consider converting his faith to embrace [[Circle of Inevitability|Inevitability]].<ref>{{Cite Book|2|219}}</ref><ref>{{Cite Book|2|331}}</ref>
+* The [[Cordu Village|Cordu]] villagers began discussing horoscopes, believing that it would bring them glory and alter their destinies.<ref name="b2c205"/>
+|-
+! colspan="3" | 1358
+|-
+|
+| Early January
+| 
+* [[Louis Lund]] found [[Pualis de Roquefort|Madame Pualis]]'s abnormality and reported it to [[Guillaume Bénet]].<ref name="b2c205">{{Cite Book|2|205}}</ref>
+|-
+|
+| Mid January
+|
+* Lumian discovered [[Louis Lund|Louis]]'s affairs and threatened him.<ref name="b2c205"/>
+|-
+|
+|
+|
+* [[Ava Lizier|Ava]], [[Reimund Greg|Reimund]], [[Naroka]] and others were murdered.
+* Lumian tries to get revenge on Pons Bénet, but failed. He realized that Aurore may be a high-ranking member on [[Guillaume Bénet|Guillaume]]'s faction.
+|-
+|
+| March
+|
+* [[Aurore Lee|Aurore]] dragged [[Pualis de Roquefort|Pualis]], while [[Guillaume Bénet|Guillaume]] suddenly launched an attack on the Administrator's Castle with a group of people.<ref name="b2c205"/>
+* [[Pualis de Roquefort|Pualis]] and her people withdraws from [[Cordu Village]].<ref name="b2c205"/>
+|-
+|
+| April 9
+| 
+* The grand sacrificial ritual was held in the [[Cordu Village]], [[Intis Republic]], but it was unsuccessful. The entire village had been destroyed with only six villagers had survived.<ref>{{Cite Book|2|108}}</ref>
+|-
+|
+|Early May
+|
+* [[Lumian Lee]], using the pseudonym Ciel, arrived in [[Trier]].
+|-
+| 
+|June
+| 
+* Lumian found [[Guillaume Bénet]].
+|-
+|
+|
+| {{main|Tree of Shadow}}
+|-
+|
+|September
+| 
+* [[The Hostel]] ritual briefly opened the seal of [[Fourth Epoch Trier]].
+** Beyonders of the Hermit and Paragon Pathways experienced the same wilderness dream.<ref>{{Cite Book|2|543}}</ref>
+* [[Vermonda Sauron]] died in [[Fourth Epoch Trier]], thereby ending the [[Sauron Family#Bloodline Curse|Sauron Family's bloodline curse]] which lasted 200 years.<ref>{{Cite Book|2|433}}</ref><ref>{{Cite Book|2|492}}</ref>
+* After 2,081 years, [[Sauron-Einhorn-Medici|Medici]] once again ascended to the title of [[Kings of Angels|King of Angels]].<ref>{{Cite Book|2|493}}</ref>
+|-
+|
+|October
+| 
+* Lumian left [[Trier]] and assumed the identity of '''Louis Berry'''.
+* He disembark in [[Farim|Port Farim]].<ref>{{Cite Book|2|514}}</ref>, then arrived in [[Port Santa]].<ref>{{Cite Book|2|533}}</ref>
+* [[Port Santa]] [[Sea Prayer Ritual]] began.<ref>{{Cite Book|2|540}}</ref>
+|-
+|
+| December
+|
+* Lumian arrived at [[West Balam]].
+|-
+|
+| Mid-December
+|
+* The [[Tizamo Town]] [[Dream Festival]] began.<ref>{{Cite Book|2|670}}</ref>
+* [[Reinette Tinekerr]] recovered "Her" heart.<ref>{{Cite Book|2|694}}</ref>
+* A Meteor fell in [[Tizamo Town]] and kill those who are dead within the [[Dream Festival]].
+|-
+|
+| Late-December
+|
+* Lumian returned to Trier to help [[Franca Roland]] deal with [[Mirror People]] case.
+|-
+! colspan="3" | 1359
+|-
+|
+|Early-January
+|
+{{main|Journey to the Underworld}}
+* With an invitation of the [[Maric|Knight of Swords]], Lumian went to the [[Raklev City]] to provide assistance, and then entered the [[Underworld]].<ref>{{Cite Book|2|757}}</ref>
+* Lumian obtained a half-body of [[Zedus|Abscessed Hand]] in the Underworld.<ref>{{Cite Book|2|775}}</ref>
+|-
+|
+|
+|
+* In order to help [[Franca Roland]] digest the potion, they went to [[Banamo Island|Banamo Port]] in the Fog Sea to ambush [[Howl Constantine]].
+|-
+|
+|Mid-January
+|
+* Lumian went to [[Lenburg]] alone to find [[Morora]].
+**Immediately after arriving in [[Azshara]], he was arrested and sent directly to [[Morora]].<ref>{{Cite Book|2|791}}</ref>
+|-
+|
+|
+| 
+{{Main|Project Vortex}}
+* [[Roselle Gustav|Roselle]] forcibly reviving.
+* The [[Son of Chaos|Uncertain Mist]] is heavily injured by [[Roselle Gustav|Roselle]] and has to sleep for sixty years to recover.
+* Roselle perished. He can only be resurrected after a hundred years.
+* [[Tirié]] was born.
+|-
+|
+|
+|{{main|The Fool's Dream}}
+* [[Klein Moretti|The Fool]] achieves an initial state of awakening.
+|-
+|
+|March to May<ref>{{Cite Book|2|1073}}</ref>
+|
+{{Main|Hunting Hidden Sage}}
+* Led by [[Klein Moretti|The Fool]], the [[Tarot Club]] launches the operation of [[Hunting Hidden Sage]].<ref>{{Cite Book|2|1062}}</ref>
+**The [[Hidden Sage]] is killed by The Fool and the [[God of Steam and Machinery]].<ref>{{Cite Book|2|1072}}</ref>
+**The [[Moses Ascetic Order]] is destroyed after being attacked by the [[Tarot Club]], the [[Church of the God of Steam and Machinery]], and the [[Church of the Evernight Goddess]].<ref>{{Cite Book|2|1075}}</ref>
+|}<noinclude>{{References}}[[Category:Timeline Templates]]
+</noinclude>

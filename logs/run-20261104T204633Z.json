@@ -1,0 +1,15 @@
+{
+  "started_at": "2026-11-04T20:46:11.417087+00:00",
+  "finished_at": "2026-11-04T20:46:33.225008+00:00",
+  "status": "success",
+  "counts": {
+    "timeline_records": 216,
+    "summary_pages": 15,
+    "story_arcs": 12
+  },
+  "sources": [
+    "https://lordofthemysteries.fandom.com/wiki/Timeline",
+    "https://www.novelwiki.net/lord-of-the-mysteries/summaries",
+    "https://www.novelwiki.net/lord-of-the-mysteries/story-arcs/"
+  ]
+}

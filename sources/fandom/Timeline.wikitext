@@ -1,0 +1,54 @@
+{{Spoiler|1|2}}
+{{cleanup}}
+{{Quote|theme = Book1|quote = The only lesson that humans can learn from history is that humans do not gain any lessons from history, and they're always repeating the same tragedies.|speaker = [[Klein Moretti]] to [[Dunn Smith]]|source = {{Cite Book|1|15}}}}
+The following is a '''timeline''' that attempts to provide an overview of the important and historical events which occurred in the world of [[Lord of Mysteries (Novel)|''Lord of Mysteries'']] and [[Circle of Inevitability (Novel)|''Circle of Inevitability'']].
+
+Be aware that the series rarely describes historical events with specific time periods, so details, especially concerning when they may have taken place, are not concrete.
+
+;<u>Notes</u>
+* The reference point is at [[#Year1349|Year 1349 of the 5th Epoch]], when Zhou Mingrui transmigrated as [[Klein Moretti]].
+* The time before this may notated with "'''BA'''" (Before Arrival) and "'''c.'''" (''circa'', meaning around, or approximately)
+** e.g. '''c.300 BA''' means "around 300 years before the arrival of Zhou Mingrui.")
+* Date format is YYYY-Mon-DD.
+
+<u>'''Notes 2'''</u>: Characters birthday are collected from Chinese LOTM fan spreadsheets:  [https://docs.google.com/spreadsheets/d/1fxRmF42epaPPa3D7aaSNAnKSsoH9rdzd315ig-iF8S8/ ''Mysteries - Various Setting''].
+__TOC__
+==Pre-Epoch==
+{{Main|Pre-Epoch}}
+{{Timeline/Pre-Epoch}}
+
+==First Epoch: The Age of Chaos==
+{{Main|First Epoch}}
+{{Timeline/First Epoch}}
+
+==Second Epoch: The Dark Epoch==
+{{Main|Second Epoch}}
+{{Timeline/Second Epoch}}
+
+==Third Epoch: The Cataclysm Epoch==
+{{Main|Third Epoch}}
+{{Timeline/Third Epoch}}
+
+==Fourth Epoch: The Epoch of The Gods==
+{{Main|Fourth Epoch}}
+{{Timeline/Fourth Epoch}}
+
+==Fifth Epoch: The Iron Age==
+{{Main|Fifth Epoch}}
+{{Timeline/Fifth Epoch}}
+===Starting Point of [[Circle of Inevitability (Novel)|Circle of Inevitability]]===
+{{Timeline/Fifth Epoch 2}}
+
+==The Future==
+* The [[God of Knowledge and Wisdom]] has prophesied that [[The Apocalypse]] will happen in the year '''1368''' of the Fifth Epoch.<ref>{{Cite Book|1|1099}}</ref>
+* [[Xio Derecha]] once claimed that the day a [[Beyonder]] could live a carefree life might only be attainable at the end of the Fifth Epoch and the beginning of the Sixth Epoch, if there is even a Sixth Epoch at all.<ref>{{Cite Book|2|287}}</ref>
+
+==Notes==
+<references group="Note"/>
+
+{{References}}
+==See Also==
+* [[History of the World]]
+{{Indicator|Book1|Book2}}
+[[Category:Events]]
+[[Category:Timeline]]
