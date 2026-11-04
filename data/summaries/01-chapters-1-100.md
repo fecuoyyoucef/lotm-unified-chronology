@@ -2,7 +2,7 @@
 
 - Source: [https://www.novelwiki.net/lord-of-the-mysteries/summaries/chapters-1-100/](https://www.novelwiki.net/lord-of-the-mysteries/summaries/chapters-1-100/)
 - Chapter range: 1–100
-- Extracted: 2026-11-04T20:46:22.485017+00:00
+- Extracted: 2026-11-04T20:48:18.364497+00:00
 
 Ch. 1–100 Summaries
 Lord of the Mysteries

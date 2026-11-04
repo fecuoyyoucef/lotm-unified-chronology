@@ -57,6 +57,11 @@ def parse_timeline_table(wikitext: str, section_id: str, section_title: str):
         lines = [x.rstrip() for x in block.splitlines()]
         cells = []
         current = None
+        citations = []
+        for book, chapter in re.findall(r"Cite Book\|([^|}]+)\|([^|}]+)", block):
+            citation = {"book": book.strip(), "chapter": chapter.strip()}
+            if citation not in citations:
+                citations.append(citation)
         for line in lines:
             if line.startswith("|}") or line.startswith("<noinclude") or line.startswith("</noinclude"):
                 continue
@@ -94,7 +99,8 @@ def parse_timeline_table(wikitext: str, section_id: str, section_title: str):
             records.append({
                 "id": f"tl-{rid}", "section": section_title, "section_id": section_id,
                 "era_label": current_label, "time": time_label, "date": date_label,
-                "event": event, "source_template": f"{FANDOM_ROOT}/wiki/{section_id}",
+                "event": event, "novel_citations": citations,
+                "source_template": f"{FANDOM_ROOT}/wiki/{section_id}",
                 "source_page": "https://lordofthemysteries.fandom.com/wiki/Timeline",
             })
     return records
@@ -164,7 +170,7 @@ def main():
         time.sleep(0.15)
     write_json(DATA_DIR / "timeline.json", {"source": "https://lordofthemysteries.fandom.com/wiki/Timeline", "records": timeline})
     with (DATA_DIR / "timeline.csv").open("w", newline="", encoding="utf-8") as f:
-        fields = ["id", "section", "section_id", "era_label", "time", "date", "event", "source_template", "source_page"]
+        fields = ["id", "section", "section_id", "era_label", "time", "date", "event", "novel_citations", "source_template", "source_page"]
         w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(timeline)
     counts["timeline_records"] = len(timeline)
 
